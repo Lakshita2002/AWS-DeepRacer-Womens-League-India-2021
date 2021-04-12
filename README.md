@@ -1,4 +1,5 @@
 # AWS-DeepRacer-Womens-League-India-2021 <br>
+### This repository contains my submissions for the north region race 2021
 ## Racer Alias `topracer` <br>
 ### Regional Race Details <br>
 <p align="center">
