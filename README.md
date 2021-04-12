@@ -5,6 +5,11 @@
   <img src="https://github.com/Lakshita2002/AWS-DeepRacer-Womens-League-India-2021/blob/main/Regional%20Race%20-%20North%20Region/AWS-deeprace-details.png">
 </p> <br>
 
+### Reward Graph Legend
+<p align="left">
+  <img src="https://github.com/Lakshita2002/AWS-DeepRacer-Womens-League-India-2021/blob/main/Regional%20Race%20-%20North%20Region/scaleForGraphs.png">
+</p> <br>
+
 ### Reinforcement Learning Algorithm <br>
 Proximal Policy Optimization (PPO) Algorithm
 ### RL Models submitted (11 in total)
@@ -23,3 +28,5 @@ Proximal Policy Optimization (PPO) Algorithm
 | 11.         | [lakshita7-clone3](https://github.com/Lakshita2002/AWS-DeepRacer-Womens-League-India-2021/tree/main/Regional%20Race%20-%20North%20Region/lakshita7-clone3)|
 ### Best Submitted Model
 lakshita7-clone
+### Best Time Lap
+00:15.272
