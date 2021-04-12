@@ -32,5 +32,5 @@ lakshita7-clone
 ### Best Time Lap
 00:15.272
 ### References
-[AWS-DeepRacer-Womens-League-India-2021](https://github.com/Rahul-Kulkarni-X/AWS-DeepRacer-Womens-League-India-2021)
+[AWS-DeepRacer-Womens-League-India-2021](https://github.com/Rahul-Kulkarni-X/AWS-DeepRacer-Womens-League-India-2021) <br>
 [Developer Guide](https://docs.aws.amazon.com/deepracer/latest/developerguide/what-is-deepracer.html?icmpid=docs_deepracer_console)
